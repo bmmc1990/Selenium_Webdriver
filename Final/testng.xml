@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="PracticeGrouping">
+  <groups>
+   <run>
+       <include name="Badminton"></include>
+   </run>
+  </groups>
+  <classes>
+  <class name="testy.NewTest"/>
+  </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

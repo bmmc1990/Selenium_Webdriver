@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18515" started-at="2016-04-18T13:34:47Z" finished-at="2016-04-18T13:35:05Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18515" started-at="2016-04-18T13:34:47Z" finished-at="2016-04-18T13:35:05Z">
+      <class name="testy.MultiCheckBox">
+        <test-method status="PASS" signature="multicheck()[pri:0, instance:testy.MultiCheckBox@2ef9b8bc]" name="multicheck" duration-ms="18486" started-at="2016-04-18T19:04:47Z" finished-at="2016-04-18T19:05:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multicheck -->
+      </class> <!-- testy.MultiCheckBox -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
