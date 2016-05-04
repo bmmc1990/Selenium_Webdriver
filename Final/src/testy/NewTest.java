@@ -17,6 +17,9 @@ public class NewTest {
   @Test(groups={"Hockey"})
   public void afterMethod() {
 	  System.out.println("I am Playing im murali hockey");
+System.out.println("I am Playing im Mohan hockey");
+
+
   }
 
 }
